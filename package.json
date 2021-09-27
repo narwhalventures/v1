@@ -1,0 +1,17 @@
+{
+  "name": "giveaway-bot",
+  "version": "1.0.0",
+  "description": "Giveaway Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Nicholas Ficara",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "request": "^2.88.2",
+    "discord-buttons": "^4.0.0"
+  },
+  "nodeVersion": "12.16.3"
+}
